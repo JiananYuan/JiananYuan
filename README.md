@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This is a test page!
+This is a test page! I will perfect README in my representative projects. This may take several time.
 
 <!--
 **JiananYuan/JiananYuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
