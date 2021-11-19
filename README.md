@@ -18,6 +18,6 @@ This is a test page! I will perfect README in my representative projects. This m
 - 👯 I’m looking to collaborate on someone who also do learned index research
 - 🤔 I’m looking for help with ...
 - 💬 You can ask me all about the undergraduate computer science techniques and knowledge
-- 📫 How to reach me: ![gmail](jiananyuan.yjn@gmail.com) or ![linkedin](https://www.linkedin.com/in/jianan-yuan-3aa545198)
+- 📫 How to reach me: [gmail](jiananyuan.yjn@gmail.com) or [linkedin](https://www.linkedin.com/in/jianan-yuan-3aa545198)
 - 😄 Pronouns: Andy
 - ⚡ Fun fact: to be continued!
