@@ -11,7 +11,7 @@
 - 😄 Pronouns: Andy
 - ⚡ Fun fact: to be continued! -->
 
-I'm Andy YUAN, majoring in computer science in Shenzhen University. Now I'm a postgraduate recommendation student, studying in Data Storage and Management Group, [National High Performance Computing Center](http://nhpcc.szu.edu.cn/web/). (Professor: [Yi Wang](http://csse.szu.edu.cn/cn/people?99712))
+I'm **Andy YUAN**, majoring in computer science in Shenzhen University. Now I'm a postgraduate recommendation student, studying in **Data Storage and Management Group**, [National High Performance Computing Center](http://nhpcc.szu.edu.cn/web/). (Professor: [Yi Wang](http://csse.szu.edu.cn/cn/people?99712))
 
 - ⚡ I’m currently working on my **Bachelor's thesis (2022)**
 - 👯 I’m looking to collaborate with someone who also do [Learned Index](https://dblp.org/search?q=learned+index) and Blockchain research
