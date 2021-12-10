@@ -11,7 +11,7 @@
 - 😄 Pronouns: Andy
 - ⚡ Fun fact: to be continued! -->
 
-This is a test page! I will perfect README in my representative projects. This may take several time.
+I'm Andy YUAN, majoring in computer science in Shenzhen University. Now I'm a postgraduate recommendation student, studying in Data Storage and Management Group. (Professor: Yi Wang)
 
 - 🔭 I’m currently studying in Shenzhen University for my master's degree (Computer Science)
 - 🌱 I’m in Data Storage and Management Group in National High Performance Computing Center
