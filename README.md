@@ -19,7 +19,7 @@ I'm **Andy YUAN**, majoring in computer science in Shenzhen University. Now I'm 
   - skillful in **C/C++/Java/Go/Python/Javascript/git coordination**, etc
   - familiar with frequently-used **data structures and algorithms**
   - commanding **operating system/computer network/database system**
-- 🌱 My representative projects:
+- 🌱 My representative projects (Not all projects are open source. If you need, just connect with me!)
   - inSZU Wechat Mini-program (backend & frontend)
   - Retail Business Manage System (backend & frontend)
 - 🚀 Internship Company: [Tencent](https://www.tencent.com/zh-cn/index.html)
