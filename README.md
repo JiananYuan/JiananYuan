@@ -15,6 +15,7 @@ I'm **Andy YUAN**, majoring in computer science in Shenzhen University. Now I'm 
 
 - ⚡ I’m currently working on my **Bachelor's thesis (2022)**
 - 👯 I’m looking to collaborate with someone who also do [Learned Index](https://dblp.org/search?q=learned+index) and Blockchain research
+- 🚀 Internship Company: [Tencent](https://www.tencent.com/zh-cn/index.html)
 - 💬 You can ask me all about the **undergraduate computer science techniques**, I'm:
   - skillful in **C/C++/Java/Go/Python/Javascript/git coordination**, etc
   - familiar with frequently-used **data structures and algorithms**
@@ -22,5 +23,9 @@ I'm **Andy YUAN**, majoring in computer science in Shenzhen University. Now I'm 
 - 🌱 My representative projects (Not all projects are open source. If you need, just connect with me!)
   - inSZU Wechat Mini-program (backend & frontend)
   - Retail Business Manage System (backend & frontend)
-- 🚀 Internship Company: [Tencent](https://www.tencent.com/zh-cn/index.html)
-- 📫 How to reach me: jiananyuan.yjn@gmail.com or [Linkedin](https://www.linkedin.com/in/jianan-yuan-3aa545198)
+- 📫 How to reach me:  or [Linkedin](https://www.linkedin.com/in/jianan-yuan-3aa545198)
+
+<img width="350px" height="165px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JiananYuan&count_private=true&show_icons=true"/>
+
+### 🤝🏻 &nbsp;Connect with Me
+<a href="mailto:jiananyuan.yjn@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-jiananyuan.yjn@gmail.com-blue?style=flat-square&logo=gmail"></a>
