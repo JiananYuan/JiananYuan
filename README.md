@@ -11,7 +11,7 @@
 - 😄 Pronouns: Andy
 - ⚡ Fun fact: to be continued! -->
 
-<img width="350px" height="165px" align="right" src="https://github-readme-stats.vercel.app/api?username=JiananYuan&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+<img width="400px" height="190px" align="right" src="https://github-readme-stats.vercel.app/api?username=JiananYuan&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 I'm **Andy YUAN**, majoring in computer science in Shenzhen University. Now I'm a postgraduate recommendation student, studying in **Data Storage and Management Group**, [National High Performance Computing Center, Shenzhen, China](http://nhpcc.szu.edu.cn/web/). (Professor: [Yi Wang](http://csse.szu.edu.cn/cn/people?99712))
 
