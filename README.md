@@ -11,6 +11,8 @@
 - 😄 Pronouns: Andy
 - ⚡ Fun fact: to be continued! -->
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=JiananYuan&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+
 I'm **Andy YUAN**, majoring in computer science in Shenzhen University. Now I'm a postgraduate recommendation student, studying in **Data Storage and Management Group**, [National High Performance Computing Center, Shenzhen, China](http://nhpcc.szu.edu.cn/web/). (Professor: [Yi Wang](http://csse.szu.edu.cn/cn/people?99712))
 
 - ⚡ I’m currently working on my **Bachelor's thesis (2022)**
@@ -25,6 +27,6 @@ I'm **Andy YUAN**, majoring in computer science in Shenzhen University. Now I'm 
   - Retail Business Manage System (backend & frontend)
 - 📫 How to reach me: <a href="mailto:jiananyuan.yjn@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Email-jiananyuan.yjn@gmail.com-blue?style=flat-square&logo=gmail"></a> or [Linkedin](https://www.linkedin.com/in/jianan-yuan-3aa545198)
 
-<img width="350px" height="165px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JiananYuan&count_private=true&show_icons=true"/>
+<!-- <img width="350px" height="165px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JiananYuan&count_private=true&show_icons=true"/> -->
 
 
