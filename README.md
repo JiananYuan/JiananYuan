@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋
 
-<!-- This is a test page! I will perfect README in my representative projects. This may take several time.
+This is a test page! I will perfect README in my representative projects. This may take several time.
 
 - 🔭 I’m currently working on Leanrned Index for Data Storage
 - 🌱 I’m currently learning ...
@@ -9,7 +9,7 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: jiananyuan.yjn@gmail.com
 - 😄 Pronouns: Andy
-- ⚡ Fun fact: to be continued! -->
+- ⚡ Fun fact: to be continued!
 
 <img width="400px" height="190px" align="right" src="https://github-readme-stats.vercel.app/api?username=JiananYuan&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
