@@ -27,7 +27,7 @@ I'm **Andy YUAN**, majoring in computer science in Shenzhen University. Now I'm 
   - Retail Business Manage System (backend & frontend)
 - 📫 How to reach me: <a href="mailto:jiananyuan.yjn@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Email-jiananyuan.yjn@gmail.com-blue?style=flat-square&logo=gmail"></a> or [Linkedin](https://www.linkedin.com/in/jianan-yuan-3aa545198)
 
-<!-- <img width="350px" height="165px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JiananYuan&count_private=true&show_icons=true"/> -->
+<img width="350px" height="165px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JiananYuan&count_private=true&show_icons=true"/>
 
 
  -->
