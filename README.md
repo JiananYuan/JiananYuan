@@ -31,3 +31,5 @@ I'm **Andy YUAN**, majoring in computer science in Shenzhen University. Now I'm 
 
 
  -->
+ 
+<img width="350px" height="165px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JiananYuan&count_private=true&show_icons=true"/>
