@@ -32,4 +32,4 @@ I'm **Andy YUAN**, majoring in computer science in Shenzhen University. Now I'm 
 
  -->
  
-<img width="700px" height="350px" alt="Wallpaper" src="https://raw.githubusercontent.com/JiananYuan/JiananYuan/main/src%3Dhttp___pic1.win4000.com_wallpaper_2018-01-22_5a65b41954b9c.jpg_down%26refer%3Dhttp___pic1.win4000.jpg"/>
+<img width="900px" height="400px" alt="Wallpaper" src="https://raw.githubusercontent.com/JiananYuan/JiananYuan/main/src%3Dhttp___pic1.win4000.com_wallpaper_2018-01-22_5a65b41954b9c.jpg_down%26refer%3Dhttp___pic1.win4000.jpg"/>
