@@ -21,3 +21,4 @@ Research List:
 - [高性能并行编程与优化](https://github.com/parallel101/course)
 - [Bourbon](https://github.com/edydfang/Bourbon)
 - [Secondary Indexing on Key-Value Stores](http://dblab.cs.ucr.edu/projects/KeyValueIndexes/)
+- [leveldb-handbook](https://leveldb-handbook.readthedocs.io/zh/latest/index.html)
