@@ -22,3 +22,4 @@ Research List:
 - [Bourbon](https://github.com/edydfang/Bourbon)
 - [Secondary Indexing on Key-Value Stores](http://dblab.cs.ucr.edu/projects/KeyValueIndexes/)
 - [leveldb-handbook](https://leveldb-handbook.readthedocs.io/zh/latest/index.html)
+- [WiscKey](https://github.com/abhisharma7/WiscKey)
