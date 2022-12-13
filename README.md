@@ -5,6 +5,7 @@ Research List:
 - [Learned RocksDB](https://github.com/emperorlu/Learned-RocksDB)
 - [Learned Indexes](https://github.com/sunzhuohang/Learned-Indexes)
 - [ML4DB paper list](https://github.com/LumingSun/ML4DB-paper-list)
+- [DSAIL ML4DB paper summary](http://dsg.csail.mit.edu/mlforsystems/papers/)
 - [blockchain](https://github.com/xilibi2003/blockchain)
 - [精通以太坊](https://github.com/inoutcode/ethereum_book)
 - [ALEX](https://github.com/microsoft/ALEX)
