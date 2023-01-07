@@ -1,5 +1,6 @@
 Research List:
 - [数据密集型应用系统设计](https://github.com/Vonng/ddia)
+- [高性能MySQL](https://juejin.cn/post/6976290766876311559)
 - [Learned Systems](https://github.com/learnedsystems)
 - [ML4DB paper list](https://github.com/LumingSun/ML4DB-paper-list)
 - [ML4DB paper summary@DSAIL](http://dsg.csail.mit.edu/mlforsystems/papers/)
