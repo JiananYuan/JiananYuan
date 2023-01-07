@@ -22,7 +22,7 @@ Research List:
 - [leveldb-handbook](https://leveldb-handbook.readthedocs.io/zh/latest/index.html)
 - [WiscKey](https://github.com/abhisharma7/WiscKey)
 - [SIndex](https://ipads.se.sjtu.edu.cn:1312/opensource/xindex/-/tree/sindex)
-- [XIndex](https://ipads.se.sjtu.edu.cn:1312/opensource/xindex
+- [XIndex](https://ipads.se.sjtu.edu.cn:1312/opensource/xindex)
 - [learned leveldb](https://github.com/emperorlu/learned-leveldb)
 - [Learned RocksDB](https://github.com/emperorlu/Learned-RocksDB)
 - [FISCO BCOS区块链](https://github.com/FISCO-BCOS/FISCO-BCOS)
