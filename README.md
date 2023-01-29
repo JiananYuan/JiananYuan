@@ -1,5 +1,5 @@
 Research List:
-- [数据密集型应用系统设计](https://github.com/Vonng/ddia)
+- [数据密集型应用系统设计]([https://github.com/Vonng/ddia](https://stream.nosdn.127.net/kids/1625672349182/%E6%95%B0%E6%8D%AE%E5%AF%86%E9%9B%86%E5%9E%8B%E5%BA%94%E7%94%A8%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%EF%BC%88%E4%B8%AD%E6%96%87%E7%89%88%E4%B9%A6%EF%BC%89.pdf))
 - [高性能MySQL](https://juejin.cn/post/6976290766876311559)
 - [Learned Systems](https://github.com/learnedsystems)
 - [ML4DB paper list](https://github.com/LumingSun/ML4DB-paper-list)
