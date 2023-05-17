@@ -30,3 +30,4 @@ Research List:
 - [品读 Linux 0.11 核心代码](https://github.com/sunym1993/flash-linux0.11-talk)
 - [SOSD Dataset@Harvard](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/JGVF9A)
 - [LIPP](https://github.com/Jiacheng-WU/lipp)
+- [Google 开源项目风格指南](https://zh-google-styleguide.readthedocs.io/en/stable/google-cpp-styleguide/contents/)
