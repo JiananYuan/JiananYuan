@@ -25,7 +25,6 @@ Research List:
 - [SIndex](https://ipads.se.sjtu.edu.cn:1312/opensource/xindex/-/tree/sindex)
 - [XIndex](https://ipads.se.sjtu.edu.cn:1312/opensource/xindex)
 - [learned leveldb](https://github.com/emperorlu/learned-leveldb)
-- [Learned RocksDB](https://github.com/emperorlu/Learned-RocksDB)
 - [FISCO BCOS区块链](https://github.com/FISCO-BCOS/FISCO-BCOS)
 - [品读 Linux 0.11 核心代码](https://github.com/sunym1993/flash-linux0.11-talk)
 - [SOSD Dataset@Harvard](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/JGVF9A)
